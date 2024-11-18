@@ -1,0 +1,26 @@
+# os
+.DS_Store
+
+# editor
+.idea/
+.vscode/
+
+# node
+node_modules/
+
+# Logs
+logs
+*.log
+
+# env
+.env.test
+.env*.local
+
+# build
+dist/
+
+# typescript
+*.tsbuildinfo
+
+# project
+src/styles
